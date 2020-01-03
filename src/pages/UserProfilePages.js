@@ -16,7 +16,7 @@ const UserProfilePage = () => {
     const [profilePhoto, setProfilePhoto] = useState('')
 
     const Page = styled.div`
-    background-color: #ffe9e9;
+    background-color: white;
     min-height: calc(100vh - 30px);
     display: flex;
     flex-direction: column;
