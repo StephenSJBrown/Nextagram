@@ -77,6 +77,7 @@ return (
             <FormGroup>
                 <Input
                     type="file"
+                    
                     multiple="false"
                     onChange={handleFile}
                 />
